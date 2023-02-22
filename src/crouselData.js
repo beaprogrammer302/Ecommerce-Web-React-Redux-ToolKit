@@ -1,0 +1,58 @@
+export default [
+    {
+        id:1,
+        title:"Tshirt",
+        price:700.0,
+        Img:"../assets/shirt5.jpg",
+        quantity: 1,
+    },
+    {
+        id:2,
+        title:"Shirt",
+        price:600.0,
+        Img:"../assets/shirt4.jpg",
+        quantity: 1,
+    },
+    {
+        id:3,
+        title:"Casual Shirt",
+        price:500.0,
+        Img:"../assets/shirt1.jpg",
+        quantity: 1,
+    },
+    {
+        id:4,
+        title:"Tshirt",
+        price:800.0,
+        Img:"../assets/shirt2.jpg",
+        quantity: 1,
+    },
+    {
+        id:5,
+        title:"Tshirt",
+        price:700.0,
+        Img:"../assets/shirt3.jpg",
+        quantity: 1,
+    },
+    {
+        id:6,
+        title:"Watch",
+        price:500.0,
+        Img:"../assets/watch.jpg",
+        quantity: 1,
+    },
+    {
+        id:7,
+        title:"Perfume",
+        price:500.0,
+        Img:"../assets/perfume.jpg",
+        quantity: 1,
+    },
+    {
+        id:8,
+        title:"Shoes",
+        price:500.0,
+        Img:"../assets/shoes.jpg",
+        quantity: 1,
+    },
+]

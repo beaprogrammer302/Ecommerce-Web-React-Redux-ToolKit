@@ -1,0 +1,58 @@
+export default [
+    {
+        id:1,
+        title:"Camera",
+        price:700.0,
+        Img:"../assets/camera.jpg",
+        quantity: 1,
+    },
+    {
+        id:2,
+        title:"Ring",
+        price:600.0,
+        Img:"../assets/ring.jpg",
+        quantity: 1,
+    },
+    {
+        id:3,
+        title:"HeadPhone",
+        price:500.0,
+        Img:"../assets/headphone.jpg",
+        quantity: 1,
+    },
+    {
+        id:4,
+        title:"Iphone",
+        price:800.0,
+        Img:"../assets/iphone.jpg",
+        quantity: 1,
+    },
+    {
+        id:5,
+        title:"Iphone 13",
+        price:700.0,
+        Img:"../assets/mic.jpg",
+        quantity: 1,
+    },
+    {
+        id:6,
+        title:"Watch",
+        price:500.0,
+        Img:"../assets/watch.jpg",
+        quantity: 1,
+    },
+    {
+        id:7,
+        title:"Perfume",
+        price:500.0,
+        Img:"../assets/perfume.jpg",
+        quantity: 1,
+    },
+    {
+        id:8,
+        title:"Shoes",
+        price:500.0,
+        Img:"../assets/shoes.jpg",
+        quantity: 1,
+    },
+]
